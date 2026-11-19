@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Testing
+.pytest_cache/
+
+# Secrets
+.streamlit/secrets.toml
+
+# AI model weights
+*.pt
+
+# System files
+.DS_Store
+Thumbs.db

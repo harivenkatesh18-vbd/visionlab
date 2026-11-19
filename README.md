@@ -105,7 +105,6 @@ visionlab/
 ├── assets/
 │   └── sample_images/
 │       ├── everyday_objects.jpg
-│       ├── red_object.jpg
 │       └── shapes.jpg
 │
 ├── tests/
